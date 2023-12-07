@@ -86,12 +86,12 @@ li {
 }
 
 .delete-icon {
-  background: url("../assets/delete.png") no-repeat center/cover;
+  background: url("./assets/delete.png") no-repeat center/cover;
 }
 
 .edit-icon,
 .save-icon {
-  background: url("../assets/edit.png") no-repeat center/cover;
+  background: url("./assets/edit.png") no-repeat center/cover;
 }
 @media (max-width: 600px) {
   #task-input {
